@@ -1,0 +1,12 @@
+section:first-child {
+  font-weight: bold;
+}
+
+section:last-child {
+  font-weight: bold;
+  font-style: italic;
+}
+
+button {
+  display: block;
+}
